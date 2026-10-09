@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/game/new/Trick_or_Treat",
+      "destination": "/index.html"
+    }
+  ]
+}
